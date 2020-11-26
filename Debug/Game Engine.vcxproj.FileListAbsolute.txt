@@ -1,0 +1,2 @@
+F:\Game Dev stuff\Game Engine\Debug\Game Engine.exe
+F:\Game Dev stuff\Game Engine\Debug\Game Engine.pdb
